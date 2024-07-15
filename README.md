@@ -1,3 +1,6 @@
+
+[![DOI](https://zenodo.org/badge/828702394.svg)](https://zenodo.org/doi/10.5281/zenodo.12741286)
+
 # allergies_twitter_gtrends
 Content for "Internet-based surveillance to track the prevalence of seasonal allergies across the US."
 
