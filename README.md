@@ -1,7 +1,7 @@
 # allergies_twitter_gtrends
 Content for "Internet-based surveillance to track the prevalence of seasonal allergies across the US."
 
-This is the persistent version with DOI
+This is the persistent version with DOI; maintained version can be found at fiererlab/allergies_twitter_gtrends 
 
 ## Data
 ### California HHS Data
